@@ -1,0 +1,10 @@
+#System
+.env
+.DS_Store
+
+#IDE
+.idea/
+
+#Python
+__pycache__/
+

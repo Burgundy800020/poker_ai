@@ -1,0 +1,904 @@
+2025-03-24 10:11:52,519 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-24 10:11:53,106 - PlayerAgent - INFO - Hand number: 0
+2025-03-24 10:12:02,969 - PlayerAgent - INFO - Hand number: 50
+2025-03-24 10:12:13,416 - PlayerAgent - INFO - Hand number: 100
+2025-03-24 10:12:23,266 - PlayerAgent - INFO - Hand number: 150
+2025-03-24 10:13:58,683 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-24 10:13:59,292 - PlayerAgent - INFO - Hand number: 0
+2025-03-24 20:45:25,490 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-24 20:45:26,785 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=83.16, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:45:27,825 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=83.6, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:45:29,862 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=83.16, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:45:33,898 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=82.72, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:45:41,940 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=82.19200000000001, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:47:49,468 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-24 20:47:50,341 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=54.472, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:47:51,380 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=56.848, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:47:53,419 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=53.064, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:47:57,604 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=62.215999999999994, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:47:58,643 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=63.184, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:48:00,680 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=62.48, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:48:04,719 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=62.303999999999995, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:48:12,751 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=63.096, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:50:21,583 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-24 20:50:22,745 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.608000000000004, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:50:23,787 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.256, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:50:25,825 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=59.136, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:50:29,862 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=60.895999999999994, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:50:37,901 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.344, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:17,612 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-24 20:53:18,427 - PlayerAgent - INFO - Significant hand completed with reward: 30.0
+2025-03-24 20:53:18,527 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=57.552, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:19,568 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=56.496, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:21,609 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.432, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:25,653 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=57.376000000000005, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:51,839 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-24 20:53:52,627 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=75.504, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:53,664 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=73.03999999999999, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:55,705 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=75.592, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:53:59,746 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=74.888, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-24 20:54:07,786 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=73.65599999999999, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:26:53,619 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 08:26:54,563 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.432, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:26:55,594 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=59.312000000000005, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:26:57,631 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=56.056, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:27:01,668 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.52, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:27:09,704 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=57.728, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:24,081 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 08:41:24,952 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=54.736, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:25,973 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=53.327999999999996, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:28,010 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=57.552, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:32,353 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.080000000000005, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:33,392 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=56.936, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:35,431 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=57.816, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:39,469 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=56.056, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:41:47,506 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.696000000000005, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-25 08:43:59,064 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 08:44:00,181 - PlayerAgent - INFO - Significant hand completed with reward: -64.0
+2025-03-25 08:47:33,383 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 08:50:11,182 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 08:50:51,243 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 08:50:54,538 - PlayerAgent - INFO - Significant hand completed with reward: 100.0
+2025-03-25 08:50:55,227 - PlayerAgent - INFO - Significant hand completed with reward: 65.0
+2025-03-25 08:50:55,744 - PlayerAgent - INFO - Significant hand completed with reward: 98.0
+2025-03-25 08:50:56,251 - PlayerAgent - INFO - Significant hand completed with reward: -95.0
+2025-03-25 08:50:56,422 - PlayerAgent - INFO - Significant hand completed with reward: 78.0
+2025-03-25 08:50:56,998 - PlayerAgent - INFO - Significant hand completed with reward: -68.0
+2025-03-25 08:50:57,322 - PlayerAgent - INFO - Significant hand completed with reward: 72.0
+2025-03-25 08:50:57,614 - PlayerAgent - INFO - Significant hand completed with reward: 100.0
+2025-03-25 08:50:58,040 - PlayerAgent - INFO - Significant hand completed with reward: 70.0
+2025-03-25 08:50:59,139 - PlayerAgent - INFO - Significant hand completed with reward: 98.0
+2025-03-25 08:52:02,914 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 08:55:52,062 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 09:10:41,507 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 09:11:38,087 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 09:11:59,163 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 09:12:20,519 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 09:13:46,191 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 11:04:40,301 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 11:04:42,622 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 11:13:46,617 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 11:17:03,823 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 11:23:04,095 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 11:31:47,289 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 12:55:26,403 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 12:59:00,988 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 12:59:25,850 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 12:59:46,798 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:00:28,828 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:00:49,210 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:02:55,639 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:12:20,161 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:12:40,596 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:13:03,987 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:15:48,385 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:15:58,202 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:16:01,051 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:16:08,978 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:19:54,233 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:25:43,309 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:26:15,212 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:26:48,985 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:27:22,124 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:27:31,594 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:32:57,080 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:33:11,836 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:33:26,016 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:33:45,762 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:33:59,877 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:34:10,608 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:34:31,345 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:35:15,616 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:35:34,725 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:44:33,826 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:45:07,638 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:45:23,375 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:45:37,269 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:46:12,152 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 13:46:36,498 - PlayerAgent - INFO - Folding to large bet of 100
+2025-03-25 13:46:46,723 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 15:51:01,071 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 15:53:43,414 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:12:19,684 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:15:44,396 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:19:37,604 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:20:01,535 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:27:39,945 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:29:30,392 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:31:21,871 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:31:26,955 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:33:51,212 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:35:03,919 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 16:40:12,267 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 18:23:17,018 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-25 18:24:20,829 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:12:39,281 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:12:39,879 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:13:28,401 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:13:29,024 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:14:13,587 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:14:14,207 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:14:14,306 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:14:14,410 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=70.07, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:14:15,473 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=67.81599999999999, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:14:17,536 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=67.914, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:14:21,592 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=70.952, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:15:03,196 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:15:03,804 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:15:04,623 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 106, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:15:04,623 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:15:05,684 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 106, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:15:05,685 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:17:30,961 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:17:31,584 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:17:31,780 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=55.958, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:17:32,827 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=54.39000000000001, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:17:34,886 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=59.388, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:17:38,929 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=58.211999999999996, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:17:46,994 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=55.07600000000001, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 00:18:32,482 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:18:33,092 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:18:33,287 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:18:33,287 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:18:34,343 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:18:34,343 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:18:36,404 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:18:36,405 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:18:40,463 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:18:40,464 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:18:48,521 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:18:48,522 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:23:11,015 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:23:11,634 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:23:11,732 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:23:11,973 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:23:11,973 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:23:13,032 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:23:13,032 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:23:15,090 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:23:15,090 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:23:19,154 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:23:19,155 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:23:27,216 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card) :-1]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:23:27,217 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:24:14,020 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 00:24:14,649 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 00:24:14,777 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card):-2]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:24:14,777 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:24:15,834 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card):-2]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:24:15,835 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:24:17,891 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card):-2]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:24:17,891 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 00:24:21,950 - PlayerAgent - ERROR - Bot raised an error during act: 8.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 104, in act
+    discard_equity = discard_monte_carlo(observation, num_simulations=500)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 60, in discard_monte_carlo
+    my_hand_rank, opp_hand_rank = evaluate_hand((my_new_cards, opp_drawn_card + drawn_cards[: 2 - len(opp_drawn_card)], community_cards + drawn_cards[2 - len(opp_drawn_card):-2]))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 19, in evaluate_hand
+    my_hand_rank = evaluator.evaluate(my_cards, community_cards)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/gym_env.py", line 44, in evaluate
+    reg_score = super().evaluate(hand, board)  # regular score
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/poker_ai/lib/python3.12/site-packages/treys/evaluator.py", line 39, in evaluate
+    return self.hand_size_map[len(all_cards)](all_cards)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 8
+
+2025-03-26 00:24:21,951 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 15:48:58,129 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 15:48:58,767 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:48:58,816 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=52.626000000000005, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 15:49:00,828 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:49:00,878 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=54.292, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 15:54:25,139 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 15:54:25,739 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:54:25,790 - PlayerAgent - ERROR - Bot raised an error during act: name 'card_to_discard' is not defined.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 123, in act
+    return action_type, raise_amount, card_to_discard
+                                      ^^^^^^^^^^^^^^^
+NameError: name 'card_to_discard' is not defined
+
+2025-03-26 15:54:25,791 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 15:54:27,798 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:54:27,845 - PlayerAgent - ERROR - Bot raised an error during act: name 'card_to_discard' is not defined.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 123, in act
+    return action_type, raise_amount, card_to_discard
+                                      ^^^^^^^^^^^^^^^
+NameError: name 'card_to_discard' is not defined
+
+2025-03-26 15:54:27,847 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 15:54:31,856 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:54:31,911 - PlayerAgent - ERROR - Bot raised an error during act: name 'card_to_discard' is not defined.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 123, in act
+    return action_type, raise_amount, card_to_discard
+                                      ^^^^^^^^^^^^^^^
+NameError: name 'card_to_discard' is not defined
+
+2025-03-26 15:54:31,912 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 15:54:39,920 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:54:39,969 - PlayerAgent - ERROR - Bot raised an error during act: name 'card_to_discard' is not defined.
+Traceback (most recent call last):
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/agent.py", line 95, in get_bot_action
+    return self.act(observation, reward, terminated, truncated, info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yizho/Workspaces/ML/Statistical_Learning/stats_learn_ana/game/poker_ai/aipoker/agents/108.py", line 123, in act
+    return action_type, raise_amount, -1
+                                      ^^^
+NameError: name 'card_to_discard' is not defined
+
+2025-03-26 15:54:39,971 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action
+  Input should be a valid tuple [type=tuple_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/tuple_type
+2025-03-26 15:54:45,703 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 15:54:46,309 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:54:46,354 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=56.644, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 15:54:48,367 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:54:48,419 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=55.958, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 15:54:52,431 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:54:52,484 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=56.742, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 15:55:00,496 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:55:00,548 - PlayerAgent - ERROR - Error in get_action: 1 validation error for ActionResponse
+action.1
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=53.900000000000006, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_from_float
+2025-03-26 15:55:10,608 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 15:55:11,223 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:56:01,004 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 15:56:01,597 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:56:16,050 - PlayerAgent - INFO - Hand number: 50
+2025-03-26 15:57:20,010 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 15:57:20,638 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 15:57:35,507 - PlayerAgent - INFO - Hand number: 50
+2025-03-26 15:57:50,586 - PlayerAgent - INFO - Hand number: 100
+2025-03-26 15:57:50,657 - PlayerAgent - INFO - Hand number: 100
+2025-03-26 15:58:04,683 - PlayerAgent - INFO - Hand number: 150
+2025-03-26 15:58:20,571 - PlayerAgent - INFO - Hand number: 200
+2025-03-26 15:58:35,673 - PlayerAgent - INFO - Hand number: 250
+2025-03-26 15:58:51,103 - PlayerAgent - INFO - Hand number: 300
+2025-03-26 15:59:05,464 - PlayerAgent - INFO - Hand number: 350
+2025-03-26 15:59:20,917 - PlayerAgent - INFO - Hand number: 400
+2025-03-26 15:59:35,838 - PlayerAgent - INFO - Hand number: 450
+2025-03-26 15:59:49,957 - PlayerAgent - INFO - Hand number: 500
+2025-03-26 16:41:23,521 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 16:41:24,167 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 16:41:24,265 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 16:41:35,663 - PlayerAgent - INFO - Hand number: 50
+2025-03-26 16:41:48,916 - PlayerAgent - INFO - Hand number: 100
+2025-03-26 16:42:00,248 - PlayerAgent - INFO - Hand number: 150
+2025-03-26 16:42:12,596 - PlayerAgent - INFO - Hand number: 200
+2025-03-26 16:42:24,737 - PlayerAgent - INFO - Hand number: 250
+2025-03-26 16:42:24,810 - PlayerAgent - INFO - Hand number: 250
+2025-03-26 16:42:36,859 - PlayerAgent - INFO - Hand number: 300
+2025-03-26 16:42:36,998 - PlayerAgent - INFO - Hand number: 300
+2025-03-26 16:42:50,274 - PlayerAgent - INFO - Hand number: 350
+2025-03-26 16:43:02,543 - PlayerAgent - INFO - Hand number: 400
+2025-03-26 16:43:02,615 - PlayerAgent - INFO - Hand number: 400
+2025-03-26 16:43:13,398 - PlayerAgent - INFO - Hand number: 450
+2025-03-26 16:43:13,469 - PlayerAgent - INFO - Hand number: 450
+2025-03-26 16:43:26,585 - PlayerAgent - INFO - Hand number: 500
+2025-03-26 16:43:26,657 - PlayerAgent - INFO - Hand number: 500
+2025-03-26 16:43:37,018 - PlayerAgent - INFO - Hand number: 550
+2025-03-26 16:43:37,090 - PlayerAgent - INFO - Hand number: 550
+2025-03-26 16:43:49,145 - PlayerAgent - INFO - Hand number: 600
+2025-03-26 16:43:49,286 - PlayerAgent - INFO - Hand number: 600
+2025-03-26 16:44:01,643 - PlayerAgent - INFO - Hand number: 650
+2025-03-26 16:44:14,518 - PlayerAgent - INFO - Hand number: 700
+2025-03-26 16:44:14,591 - PlayerAgent - INFO - Hand number: 700
+2025-03-26 16:44:25,918 - PlayerAgent - INFO - Hand number: 750
+2025-03-26 16:44:39,830 - PlayerAgent - INFO - Hand number: 800
+2025-03-26 16:44:39,903 - PlayerAgent - INFO - Hand number: 800
+2025-03-26 16:44:51,888 - PlayerAgent - INFO - Hand number: 850
+2025-03-26 16:45:04,734 - PlayerAgent - INFO - Hand number: 900
+2025-03-26 16:45:18,865 - PlayerAgent - INFO - Hand number: 950
+2025-03-26 16:54:40,542 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 16:54:41,174 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 16:54:41,338 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 16:54:53,926 - PlayerAgent - INFO - Hand number: 50
+2025-03-26 16:55:05,138 - PlayerAgent - INFO - Hand number: 100
+2025-03-26 16:55:18,238 - PlayerAgent - INFO - Hand number: 150
+2025-03-26 16:55:30,985 - PlayerAgent - INFO - Hand number: 200
+2025-03-26 16:55:43,456 - PlayerAgent - INFO - Hand number: 250
+2025-03-26 16:55:43,532 - PlayerAgent - INFO - Hand number: 250
+2025-03-26 16:55:55,804 - PlayerAgent - INFO - Hand number: 300
+2025-03-26 16:55:55,879 - PlayerAgent - INFO - Hand number: 300
+2025-03-26 16:56:07,637 - PlayerAgent - INFO - Hand number: 350
+2025-03-26 16:56:20,426 - PlayerAgent - INFO - Hand number: 400
+2025-03-26 16:56:20,569 - PlayerAgent - INFO - Hand number: 400
+2025-03-26 16:56:33,103 - PlayerAgent - INFO - Hand number: 450
+2025-03-26 16:56:33,175 - PlayerAgent - INFO - Hand number: 450
+2025-03-26 16:56:46,574 - PlayerAgent - INFO - Hand number: 500
+2025-03-26 16:56:46,646 - PlayerAgent - INFO - Hand number: 500
+2025-03-26 16:56:59,799 - PlayerAgent - INFO - Hand number: 550
+2025-03-26 16:56:59,871 - PlayerAgent - INFO - Hand number: 550
+2025-03-26 16:57:12,535 - PlayerAgent - INFO - Hand number: 600
+2025-03-26 16:57:25,726 - PlayerAgent - INFO - Hand number: 650
+2025-03-26 16:57:25,870 - PlayerAgent - INFO - Hand number: 650
+2025-03-26 16:57:38,009 - PlayerAgent - INFO - Hand number: 700
+2025-03-26 16:57:38,081 - PlayerAgent - INFO - Hand number: 700
+2025-03-26 16:57:51,972 - PlayerAgent - INFO - Hand number: 750
+2025-03-26 16:57:52,049 - PlayerAgent - INFO - Hand number: 750
+2025-03-26 16:58:04,763 - PlayerAgent - INFO - Hand number: 800
+2025-03-26 16:58:04,836 - PlayerAgent - INFO - Hand number: 800
+2025-03-26 16:58:17,444 - PlayerAgent - INFO - Hand number: 850
+2025-03-26 16:58:30,004 - PlayerAgent - INFO - Hand number: 900
+2025-03-26 16:58:30,078 - PlayerAgent - INFO - Hand number: 900
+2025-03-26 16:58:42,708 - PlayerAgent - INFO - Hand number: 950
+2025-03-26 16:58:42,782 - PlayerAgent - INFO - Hand number: 950
+2025-03-26 17:10:51,893 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 17:10:52,481 - PlayerAgent - INFO - Hand number: 0
+2025-03-26 17:11:08,690 - PlayerAgent - INFO - Starting agent server on 0.0.0.0:8000
+2025-03-26 17:11:09,281 - PlayerAgent - INFO - Hand number: 0
