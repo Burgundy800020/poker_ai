@@ -15,3 +15,7 @@ matchups locally.
 ### EDA
 See the plots/ folder for statistical analysis
 of this specific variant of poker.
+
+### Results
+Our best bot ranked first, out of more than 40 
+participating teams!
